@@ -16,10 +16,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Awal Snake Game -->
-<h3 align="center">My Contribution Snake Game</h3>
+<!-- <h3 align="center">My Contribution Snake Game</h3>
 <p align="center">
   <img src="dist/github-snake.svg" alt="Snake Game">
-</p>
+</p> -->
 <!-- Akhir Snake Game -->
 
 <p align="center">
