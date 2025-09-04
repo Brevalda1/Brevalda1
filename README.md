@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="URL_GAMBAR_BANNER_KAMU" alt="Banner Profil">
-</p>
 ## Hi there 👋
 
 <!--
