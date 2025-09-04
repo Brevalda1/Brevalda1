@@ -1,56 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi there 👋<br><br># 🏰 Welcome to the Kingdom of Brevalda  <br><br>Greetings, traveler! You have entered the **Royal Repository** of  <br>**Brevalda Resnu** – a craftsman of code, leather, and ideas.  <br><br>---<br><br>## 👑 About the Sovereign<br>- 🎓 **S.Kom** (Bachelor of Computer Science)  <br>- ⚔️ Skilled in **Laravel, PHP, MySQL, HTML, CSS**  <br>- 🛠️ Artisan in **Leathercraft & Electrical Panels**  <br>- 🎮 I love Racing in **F1**  <br><br>---<br><br>## 📜 Royal Quest Log (What I'm up to)<br>- 🏗️ Building **Web Systems** with Laravel (POS, online invitations, E-sign , Expenses Recorder with Multi Company etc.)  <br>- 🎨 Crafting **leather goods**  <br>- 🎮 Expanding the **PS rental business with side hustles**  <br>- 🏇 Serving as a **Royal Messenger (Ojek Online)** while exploring the kingdom’s roads  <br><br>---<br><br>## 🕹️ The Royal Games<br>Welcome, adventurer! Choose your path:  <br><br>- 🏰 **Castle Builder** → Explore my web dev projects.  <br>- ⚔️ **Knight’s Trial** → Debug and refactor code in the kingdom’s dungeons.  <br>- 📜 **Scholar’s Library** → Read my writings & documentation.  <br>- 🧙 **Alchemist’s Lab** → Experiments with AI, leather, and Code.  <br>- 🏹 **Ranger’s Quest** → Side hustles: F&B.  <br><br>> 💡 *Every commit is a quest. Every bug defeated is a slain monster. Every project completed is a conquered kingdom.*  <br><br>---<br><br>## ⚔️ Royal Skills<br>```yaml<br>languages:<br>  - PHP<br>  - HTML, CSS, JavaScript<br>  - SQL<br>  - Bash (Linux server tinkering)<br>  - C#<br>  - Java, Karena Java adalah Koentji <br>crafts:<br>  - Leathercraft<br>  - Electrical panel design<br>  - Graphic design<br>explorations:<br>  - AI prompting<br><br><br><br>
 
-# 🏰 Welcome to the Kingdom of Brevalda  
 
-Greetings, traveler! You have entered the **Royal Repository** of  
-**Brevalda Resnu** – a craftsman of code, leather, and ideas.  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brevaldamakarov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brevalda@gmail.com) 
 
----
-
-## 👑 About the Sovereign
-- 🎓 **S.Kom** (Bachelor of Computer Science)  
-- ⚔️ Skilled in **Laravel, PHP, MySQL, HTML, CSS**  
-- 🛠️ Artisan in **Leathercraft & Electrical Panels**  
-- 🎮 I love Racing in **F1**  
-
----
-
-## 📜 Royal Quest Log (What I'm up to)
-- 🏗️ Building **Web Systems** with Laravel (POS, online invitations, E-sign , Expenses Recorder with Multi Company etc.)  
-- 🎨 Crafting **leather goods**  
-- 🎮 Expanding the **PS rental business with side hustles**  
-- 🏇 Serving as a **Royal Messenger (Ojek Online)** while exploring the kingdom’s roads  
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brevalda1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=brevalda1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brevalda1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=brevalda1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🕹️ The Royal Games
-Welcome, adventurer! Choose your path:  
-
-- 🏰 **Castle Builder** → Explore my web dev projects.  
-- ⚔️ **Knight’s Trial** → Debug and refactor code in the kingdom’s dungeons.  
-- 📜 **Scholar’s Library** → Read my writings & documentation.  
-- 🧙 **Alchemist’s Lab** → Experiments with AI, leather, and Code.  
-- 🏹 **Ranger’s Quest** → Side hustles: F&B.  
-
-> 💡 *Every commit is a quest. Every bug defeated is a slain monster. Every project completed is a conquered kingdom.*  
-
----
-
-## ⚔️ Royal Skills
-```yaml
-languages:
-  - PHP
-  - HTML, CSS, JavaScript
-  - SQL
-  - Bash (Linux server tinkering)
-  - C#
-  - Java, Karena Java adalah Koentji 
-crafts:
-  - Leathercraft
-  - Electrical panel design
-  - Graphic design
-explorations:
-  - AI prompting
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
