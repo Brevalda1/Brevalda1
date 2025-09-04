@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk@v3 # Menggunakan Action "snk" dari Platane
         with:
           # ID pengguna GitHub-mu
-          github_user_name: $brevalda1
+          github_user_name: ${{ Brevalda1 }}
 
           # Daftar output yang ingin dihasilkan
           # Formatnya: <output_path>?<options>
