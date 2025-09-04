@@ -1,0 +1,32 @@
+# Nama workflow
+name: Generate Snake Animation
+
+# Kapan workflow ini dijalankan
+on:
+  # Jalankan secara otomatis sesuai jadwal (cron job)
+  schedule:
+    - cron: "0 */6 * * *" # Setiap 6 jam
+  
+  # Izinkan untuk dijalankan secara manual dari tab Actions
+  workflow_dispatch:
+
+# Pekerjaan yang harus dilakukan
+jobs:
+  build:
+    runs-on: ubuntu-latest # Jalankan di mesin virtual Ubuntu
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3 # Menggunakan Action "snk" dari Platane
+        with:
+          # ID pengguna GitHub-mu
+          github_user_name: ${{ github.repository_owner }}
+
+          # Daftar output yang ingin dihasilkan
+          # Formatnya: <output_path>?<options>
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?palette=ocean&color_snake=orange

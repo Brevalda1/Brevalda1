@@ -14,3 +14,14 @@
 [![](https://visitcount.itsvg.in/api?id=brevalda1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Awal Snake Game -->
+<h3 align="center">My Contribution Snake Game</h3>
+<p align="center">
+  <img src="dist/github-snake.svg" alt="Snake Game">
+</p>
+<!-- Akhir Snake Game -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME-GITHUB-KAMU&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
